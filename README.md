@@ -12,3 +12,5 @@ Este texto fue agregado para hacer el uso de github desktop
 prueba de velocidad en GitHub Desktop
 
 prueba con visual studio code
+
+Segunda prueba con Visual Studio Code
